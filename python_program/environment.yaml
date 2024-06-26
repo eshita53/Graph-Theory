@@ -1,0 +1,8 @@
+name: graph
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - numpy
+  - pip
+  
